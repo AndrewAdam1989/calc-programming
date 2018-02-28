@@ -40,4 +40,3 @@ RUN set -ex \
  && rm -rf /var/cache/apk/*
 
 CMD ["obfs-server"]
-
